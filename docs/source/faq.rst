@@ -49,7 +49,7 @@ During the training period you are considered to be a student with a small allow
 What qualifications are required, and are there medical standards?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Medical Standards and Certification by the International Civil Aviation Organization [ICAO](http://www.icao.int/) 
+Medical Standards and Certification by the International Civil Aviation Organization :ref:`http://www.icao.int/<ICAO>`.
 
 
 
