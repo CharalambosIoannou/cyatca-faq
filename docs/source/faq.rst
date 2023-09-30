@@ -49,7 +49,7 @@ During the training period you are considered to be a student with a small allow
 What qualifications are required, and are there medical standards?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Medical Standards and Certification by the International Civil Aviation Organization `ICAO`_.
+Medical Standards and Certification by the International Civil Aviation Organization (`ICAO`_).
 
 .. _ICAO: http://www.icao.int/
 
@@ -117,16 +117,17 @@ Scholarships and Application
 
 What is the Cyprus State Scholarship Foundation Scholarship, and how can I apply?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-The [CSSF](http://www.cyscholarships.gov.cy/ikyk/ikyk.nsf/index_en/index_en?OpenDocument)  provides the Scholarships for the trainee ATCOs, 
+The `CSSF`_  provides the Scholarships for the trainee ATCOs, 
 including the School expenses and the salary for the period of the training consisting of around 50.000 euro for each candidate.
 
+.. _CSSF: http://www.cyscholarships.gov.cy/ikyk/ikyk.nsf/index_en/index_en?OpenDocument
 
 How do I apply for the Training Course?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Once the Scholaships have been announced in the [Cyprus Official Newspaper](http://www.mof.gov.cy/mof/gpo/gpo.nsf/dmlindex_en/dmlindex_en?OpenDocument)
+Once the Scholaships have been announced in the `Cyprus Official Newspaper`_
 you can apply your interest before the deadline provided in the announce.
 
-
+.. _Cyprus Official Newspaper: http://www.mof.gov.cy/mof/gpo/gpo.nsf/dmlindex_en/dmlindex_en?OpenDocument
 
 
 Course Content and OJT
